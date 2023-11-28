@@ -1,5 +1,9 @@
 # Unit2.PartyPlanner
 
+A user enters the website and finds a list of the names, dates, times, locations, and descriptions of all the parties that are happening.
+Next to each party in the list is a delete button. The user clicks the delete button for one of the parties. That party is then removed from the list.
+There is also a form that allows the user to enter information about a new party that they want to schedule. After filling out the form and submitting it, the user observes their party added to the list of parties.
+
 API Data
 {"success":true,"error":null,"data":[
 {"id":408,"name":"optimize sticky deliverables","description":"Exercitationem vero maxime exercitationem excepturi pariatur dolores tempore. Quasi quo expedita eaque facere adipisci enim. Nisi aspernatur fugit quis molestias explicabo enim accusamus beatae recusandae.","date":"2023-08-20T23:40:08.000Z","location":"75141 Ziemann Throughway","cohortId":43},

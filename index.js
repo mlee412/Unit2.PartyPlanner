@@ -50,7 +50,7 @@ function renderParties() {
         <p>Location: ${event.location}</p>
         <p>Description: ${event.description}</p>
     </div>
-    <button onclick="deleteParty('${event.id}')">Delete</button>
+        <button onclick="deleteParty('${event.id}')">Delete</button>
     `;
     return li;
   });
